@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shadyelsawy20
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on big projects
+- 📫 How to reach me send to me an email on : shadyelsawy536@gmail.com
