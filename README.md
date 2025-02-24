@@ -1,5 +1,20 @@
-- 👋 Hi, I’m @shadyelsawy20
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me send to me an email on : shadyelsawy536@gmail.com
+# 👋 Hi, I'm Shady Elsawy
+
+🚀 **Aspiring Softaware Developer** | 🎓 **BIS Student** | 💡 **Lifelong Learner**
+
+## 🌟 About Me
+- 👀 Passionate about **programming** and building impactful solutions.  
+- 🌱 Currently sharpening my skills in **web development** (HTML, CSS, JavaScript, NodeJS, Python).  
+- 💼 Exploring opportunities to collaborate on **exciting projects** and real-world applications.  
+- 🎯 Focused on delivering **efficient, clean code** and **user-friendly experiences**.  
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML | CSS | Bootstrap | JavaScript   
+- **Backend:** Python | Django | JavaScript | NodeJS | MySQL  
+- **Tools & APIs:** Git & GitHub | Excel |  API Testing  
+
+## 🤝 Let's Connect
+📫 Reach out via email: **shadyelsawy536@gmail.com**  
+🌐 Check out my GitHub profile: [Shadyelsawy536](https://github.com/Shadyelsawy536)
+
+⚡ _Eager to contribute, collaborate, and grow in the tech community!_
