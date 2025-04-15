@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 - **Programming Languages:** Java | Python | JavaScript
-- **Frontend:** HTML | CSS | Bootstrap | JavaScript   
+- **Frontend:** HTML | CSS | Bootstrap
 - **Backend:** NodeJS | Django | MySQL | MongoDB  
 - **Tools & APIs:** Git & GitHub | Excel |  API Testing
 
