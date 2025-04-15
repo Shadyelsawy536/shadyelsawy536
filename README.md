@@ -9,10 +9,10 @@
 - 🎯 Focused on delivering **efficient, clean code** and **user-friendly experiences**.  
 
 ## 🛠️ Tech Stack
+- **Programming Languages:** Java | Python | JavaScript
 - **Frontend:** HTML | CSS | Bootstrap | JavaScript   
 - **Backend:** NodeJS | Django | MySQL | MongoDB  
 - **Tools & APIs:** Git & GitHub | Excel |  API Testing
-- **Programming Languages:** Java | Python | JavaScript
 
 ## 🤝 Let's Connect
 📫 Reach out via email: **shadyelsawy536@gmail.com**  
